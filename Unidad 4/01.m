@@ -45,11 +45,12 @@ ess_p = eval(1/Ka)
 % Kp = cte, Kv = 0, Ka = 0
 % ess_e = cte, ess_r = inf, ess_p = inf
 
-% SSISTEMA TIPO 1
+% SISTEMA TIPO 1
 % Kp = inf, Kv = cte, Ka = 0
 % ess_e = 0, ess_r = cte, ess_p = inf
 
 % SISTEMA TIPO 2
+% Kp = inf, Kv = inf, Ka = cte
 % ess_e = 0, ess_r = 0, ess_p = cte
 % ----------------------------------
 
